@@ -19,7 +19,7 @@
 <h5>🌸 First tap to Fork button and create new fork</h5>
 
 <h4>🌸 Following 👇</h4>
-<h1><a href="http://sadiyamin.github.io/Test">Alexa Official Web Site</a></h1>
+<h1><a href="http://sadiyamin.github.io/Test">🌸 Alexa Official Web Site</a></h1>
 <p><tbody>
 
 <hr>
@@ -88,12 +88,18 @@ jobs:
 <div align="center">
 <h3>Alexa Developer Team 👤</h3>
 
-| Sadeesha 👤             | Vihanga 👤            | Nisitha 👤             | Zoro 👤             |                       
-|----------------------|----------------------|----------------------|----------------------|
-| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Zoro](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
+| Sadeesha 👤             | Vihanga 👤            |                        
+|----------------------|----------------------|
+| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
+</div>
+<hr>
+<div align="center">
+	
+| Nisitha 👤             | Zoro 👤             |
+|----------------------|----------------------|
+| [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Zoro](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
 
 </div>
-
 <hr>
 
 <div align="center">

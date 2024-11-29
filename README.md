@@ -1,9 +1,14 @@
 <div align="center">
-	<h3>👧🏻 Alexa Whatsapp Bot 👧🏻</h3>
-<img src="https://i.ibb.co/zQg9dzm/IMG-20241025-WA0018.jpg" width="300" height="190">
+	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
+<img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
 </div>
+<div align="center">
+</p>
+	
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+LARA+MD+DEVELOPER)](https://git.io/typing-svg)
+
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Alexa...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Alexa..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
             alt="Typing">
 
 <div align="center">
@@ -12,37 +17,45 @@
 
 <hr>
 
-			Alexa බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+			Lara-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
        
 <h3>🌸 How To Deploy </h3>
 
 <h5>🌸 First tap to Fork button and create new fork</h5>
 
 <h4>🌸 Following 👇</h4>
-<h1><a href="http://sadiyamin.github.io/Test">🌸 Alexa Official Web Site</a></h1>
-<p><tbody>
-
-<hr>
-	
+<hr>	
 <h3>🌸 Get Your SESSION ID 👇</h3> 
-<h5>🌸 SESSION_ID Error Fixed ✅</h5>
-	
-<button><tr><a href="https://pair-web-public.koyeb.app/">🌸 SESSION_ID</a></tr></button>
+<h4>Click the SESSION_ID Button</h4>
+<h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
+<br>
+<h3>SEVER ➊</h3>
+<div align="center">
+<button><tr><a href="https://webpair-mega-1d2j.onrender.com/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<br>
+<h3>SEVER ❷</h3>
+<div align="center">
+<button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+</div>
+<br>
 
-<h5>🌸 Now get your inbox and copy sessino id</h5>
-<h5>🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")</h5>
+*🌸 Now get your inbox and copy sessino id*
+
+*🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
 
 <h3>🌸 Supported Group link </h3>
 <a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa suported 👧</a>
 <hr>
-<h3>🌸 Alexa updates chanels </h3>
+<h3>🌸 Lara updates chanels </h3>
 <a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
 <hr>
 
-***CLICK THE BUTTON BELOW TO DEPLOY 🌸***
+***CLICK THE BUTTON BELOW TO DEPLOY🌸***
 
  <details close>
 <summary>🌸 DEPLOY ONLY PAY 🌸</summary>
+	 
+--------	 
 1.  #### DEPLOY IN HEROKU 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
@@ -83,13 +96,14 @@
 </details>
 <details close>
 <summary>🌸 DEPLOY IN FREE 🌸</summary>
+
 <h5>🌸 Deploy Free Koyeb👇</h5>
 <a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
 <hr>
 <h5>🌸 Deploy Free Workflows 👇</h5>
 
 ```
- name: Node.js CI
+name: Node.js CI
 
 on:
   push:
@@ -128,6 +142,43 @@ jobs:
 <img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
 <hr>
 
+**🌸 FREE DEPLOY WORKFLOWS**
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
 
 <h5>🌸 TOTAL WEB VIEWS</h5>
 <img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
@@ -135,20 +186,15 @@ jobs:
 <hr>
 
 <div align="center">
-<h3>🌸 Alexa Developer Team 👤</h3>
+<h3>🌸 LARA-MD Developer Team 👤</h3>
 
-| Sadeesha 👤             | Vihanga 👤            |                        
-|----------------------|----------------------|
-| [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
+| SADEESHA 👤              | VIHANGA 👤              | SADEEPA 👤            |
+|---------------------|---------------------|---------------------|
+[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
+| DEVELOPER & FOUNDER | MODULE CREATE | BUG TESTER |
 </div>
 <hr>
-<div align="center">
-	
-| Nisitha 👤             | Sadeepa 👤             |
-|----------------------|----------------------|
-| [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/)
 
-</div>
 <hr>
 
 <div align="center">
@@ -164,11 +210,11 @@ jobs:
 
 </div>
 
-<h5>Thank You For Using Alexa 💗</h5>
+<h5>Thank You For Using Lara-MD 💗</h5>
 
 <hr>
 
 <h3>⚠️ Warning!</h3>
 
-<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Alexa executives do not take responsibility. By setting up Alexa Bot you are considered to have assumed these responsibilities.</h5>
+<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Lara-MD executives do not take responsibility. By setting up Lara-MD Bot you are considered to have assumed these responsibilities.</h5>
 <hr>
